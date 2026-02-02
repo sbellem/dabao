@@ -380,14 +380,11 @@ th {
     border-color: #d33682;
 }
 
-<<<<<<< HEAD
-=======
 .sdcard {
     background-color: #ff660033;
     border-color: #ff6600;
 }
 
->>>>>>> bfe5afe (adding sd card and ADC under development)
 .uart {
     background-color: #6c71c433;
     border-color: #6c71c4;
@@ -454,13 +451,10 @@ th {
     background-color: #f34f9f66;
 }
 
-<<<<<<< HEAD
-=======
 .labels tr:hover .sdcard {
     background-color: #ff660066;
 }
 
->>>>>>> bfe5afe (adding sd card and ADC under development)
 .labels tr:hover .uart {
     background-color: #8d91e666;
 }
@@ -503,6 +497,14 @@ th {
 .interfaces label {
     border-width: 0 0px 0 30px;
     border-style: solid;
+}
+
+.filter.interfaces label.sdcard {
+    border-color: #ff6600;
+}
+
+.filter.interfaces label.uart {
+    border-color: #6c71c4;
 }
 
 .filter input {
