@@ -1,4 +1,4 @@
-# DABAO Pinout Documentation
+# dabao Pinout Documentation
 
 ## SPI/QSPI Naming Convention
 
@@ -54,5 +54,5 @@ Pin information is maintained in `pins.csv` with the following columns:
 ## Board Information
 
 - **Manufacturer**: Baochip
-- **Board Name**: DABAO
+- **Board Name**: dabao
 - **Based on**: [pinout-xyz/pico.pinout.xyz](https://github.com/pinout-xyz/pico.pinout.xyz) (MIT license)
