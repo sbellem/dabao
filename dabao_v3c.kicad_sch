@@ -5795,6 +5795,17 @@
 		)
 		(uuid "7139d147-8725-4403-bab8-f46b3ce7dcb4")
 	)
+	(text "ECO: 33pF NP0 caps"
+		(exclude_from_sim no)
+		(at 54.102 229.616 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 17 1)
+			)
+		)
+		(uuid "8a2c35a9-9142-45e6-8a96-fb77bd5d2a93")
+	)
 	(text "press to toggle bootloader mode (also disconnects USB)"
 		(exclude_from_sim no)
 		(at 176.53 255.016 0)
@@ -14180,7 +14191,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "12pF C0G"
+		(property "Value" "33pF C0G"
 			(at 69.85 241.3 0)
 			(effects
 				(font
@@ -14216,7 +14227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "C0G 50V 0603"
+		(property "Rating" ""
 			(at 78.74 240.03 0)
 			(effects
 				(font
@@ -14225,7 +14236,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0201JRNPO9BN120"
+		(property "MPN" ""
 			(at 72.39 254 0)
 			(effects
 				(font
@@ -14235,7 +14246,7 @@
 				(hide yes)
 			)
 		)
-		(property "MYPN" "C-120-50-C0G-0402"
+		(property "MYPN" ""
 			(at 72.39 256.54 0)
 			(effects
 				(font
@@ -14245,7 +14256,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C277478"
+		(property "LCSC" "C56903"
 			(at 72.39 261.62 0)
 			(effects
 				(font
@@ -14708,7 +14719,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "12pF C0G"
+		(property "Value" "33pF C0G"
 			(at 36.83 241.3 0)
 			(effects
 				(font
@@ -14744,7 +14755,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "C0G 50V 0603"
+		(property "Rating" ""
 			(at 45.72 240.03 0)
 			(effects
 				(font
@@ -14753,7 +14764,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0201JRNPO9BN120"
+		(property "MPN" ""
 			(at 39.37 254 0)
 			(effects
 				(font
@@ -14763,7 +14774,7 @@
 				(hide yes)
 			)
 		)
-		(property "MYPN" "C-120-50-C0G-0402"
+		(property "MYPN" ""
 			(at 39.37 256.54 0)
 			(effects
 				(font
@@ -14773,7 +14784,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C277478"
+		(property "LCSC" "C56903"
 			(at 39.37 261.62 0)
 			(effects
 				(font
